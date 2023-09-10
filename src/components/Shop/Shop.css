@@ -26,3 +26,9 @@
     padding: 15px 80px;
     border-radius: 0 0 5px 5px ;
 }
+.review-order span{
+text-decoration: none;
+}
+.revieworderlink{
+    text-decoration: none;
+}
